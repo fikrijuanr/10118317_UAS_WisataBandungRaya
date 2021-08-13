@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706580843901",
+    "firebase_url": "https://crud-firebase-bc112-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-firebase-bc112",
+    "storage_bucket": "crud-firebase-bc112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706580843901:android:8137f8965feb62615d5014",
+        "android_client_info": {
+          "package_name": "com.e.a10118317_uas_wisatabandungraya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706580843901-7blpaleg6r7tqefjs19m68do5orajkuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-d7C-afN9a1fU2ZFBpOpCXimGz1Yv4Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706580843901-7blpaleg6r7tqefjs19m68do5orajkuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
